@@ -4,3 +4,4 @@
 远端修改，本地merge分支
 本地：搞rebase用法，本地搞
 服务器：搞rebase用法，远程搞
+pycharm中用使用reset用法，第1次提交
