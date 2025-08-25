@@ -1,1 +1,2 @@
 远端和pycharm的git功能互动。
+远端修改，本地merge分支
