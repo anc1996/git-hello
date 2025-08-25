@@ -24,3 +24,9 @@ Tangerine
 Apricot
 Peach
 Rust
+Lavender
+Violet
+Lilac
+Mauve
+Plum
+Magenta
