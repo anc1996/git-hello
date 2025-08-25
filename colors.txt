@@ -5,3 +5,10 @@ Maroon
 Rose
 Coral
 Salmon
+green
+red
+blue
+yellow
+black
+white 
+orange
