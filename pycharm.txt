@@ -1,3 +1,4 @@
 远端和pycharm的git功能互动。
+制造冲突，提交pycharm-v2分支。
 制造冲突，提交main分支。
 远端修改，本地merge分支
