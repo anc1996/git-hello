@@ -5,3 +5,6 @@
 本地：搞rebase用法，本地搞
 服务器：搞rebase用法，远程搞
 pycharm中用使用reset用法，第1次提交
+pycharm中用使用reset用法，第2次提交
+pycharm中用使用reset用法，第3次提交
+pycharm这次撤回，用的是mix。因此，工作目录，不会删除更改内容。
