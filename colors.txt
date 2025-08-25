@@ -10,7 +10,7 @@ red
 blue
 yellow
 black
-white 
+white
 orange
 Lime
 Olive
