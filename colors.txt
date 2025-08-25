@@ -12,3 +12,10 @@ yellow
 black
 white 
 orange
+Lime
+Olive
+Emerald
+Jade
+Mint
+Teal
+Forest Green
