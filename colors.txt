@@ -12,3 +12,8 @@ yellow
 black
 white 
 orange
+Amber
+Tangerine
+Apricot
+Peach
+Rust
