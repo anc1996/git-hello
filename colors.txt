@@ -19,3 +19,8 @@ Jade
 Mint
 Teal
 Forest Green
+Amber
+Tangerine
+Apricot
+Peach
+Rust
