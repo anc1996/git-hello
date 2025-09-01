@@ -8,4 +8,4 @@ updates:
   - package-ecosystem: "pip" # 包生态系统类型，请查看文档了解可能的值
     directory: "/" # 包清单文件的位置
     schedule:
-      interval: "weekly" # 更新频率：每周检查一次
+      interval: "daily" # 更新频率：每周检查一次
