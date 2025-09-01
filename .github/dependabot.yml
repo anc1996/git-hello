@@ -1,0 +1,11 @@
+# 要开始使用 Dependabot 版本更新，您需要指定要更新哪些包生态系统
+# 以及包清单文件的位置。
+# 请查看文档了解所有配置选项：
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  - package-ecosystem: "pip" # 包生态系统类型，请查看文档了解可能的值
+    directory: "/" # 包清单文件的位置
+    schedule:
+      interval: "weekly" # 更新频率：每周检查一次
